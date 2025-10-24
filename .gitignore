@@ -1,0 +1,12 @@
+# Build/Temp
+build/
+dist/
+*.log
+*.tmp
+
+# IDE/Editor
+.vscode/
+.idea/
+
+# Umgebungsvariablen
+.env
